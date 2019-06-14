@@ -1,0 +1,19 @@
+Package: Retiplib
+Type: Package
+Title: Retip's library package
+Version: 0.2.0
+Authors@R: c(
+    person("Paolo", "Bonini", , "pb@ngalab.com", c("aut", "cre")),
+    person("Tobias", "Kind", , "tkind@ucdavis.edu",role = "aut"),
+    person("Hiroshi", "Tsugawa", , "hiroshi.tsugawa@riken.jp", role = "aut"),
+    person("Dinesh", "Barupal", , "dinkumar@ucdavis.edu", role = "aut"),
+    person("Oliver", "Fiehn", , "ofiehn@ucdavis.edu", role = "aut"))
+Description: This is the Retip's library package.
+    It contains more than 20 metabolomics databases with computed chemical descriptors. 
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+URL: https://www.retip.app
+RoxygenNote: 6.1.1
