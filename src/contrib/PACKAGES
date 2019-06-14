@@ -5,3 +5,9 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: Retiplib
+Version: 0.2.1
+Depends: R (>= 2.10)
+License: CC BY 4.0
+MD5sum: 8b627add43ca40a3c1f68b9951c189b6
+NeedsCompilation: no
