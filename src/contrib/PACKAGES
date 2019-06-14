@@ -1,0 +1,6 @@
+Package: Retiplib
+Version: 0.2.1
+Depends: R (>= 2.10)
+License: CC BY 4.0
+MD5sum: 8b627add43ca40a3c1f68b9951c189b6
+NeedsCompilation: no
