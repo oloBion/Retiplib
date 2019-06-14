@@ -1,4 +1,7 @@
-Package: Retiplib
-Version: 0.2.0 
-MD5sum:670268696E5290241592AB62B3086EB6
+Package: drat
+Version: 0.0.4
+Suggests: git2r, knitr
+License: GPL (>= 2)
+MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
+
