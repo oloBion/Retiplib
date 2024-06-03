@@ -2,7 +2,7 @@
 #'
 #' @docType data
 #'
-#' @usage data(retip_lib_v1)
+#' @usage data(retip_lib_v2)
 #'
 #' @keywords more than 16 different database with Retip Chemical descriptos calculated
 #'
@@ -10,6 +10,6 @@
 #'
 #'
 #' @examples
-#' data(retip_lib_v1)
+#' data(retip_lib_v2)
 
-"retip_lib_v1"
+"retip_lib_v2"
