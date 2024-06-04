@@ -5,7 +5,7 @@
 \alias{retip_lib_1}
 \title{Retip library (part I)}
 \format{
-An object of class \code{data.frame} with 183879 rows and 267 columns.
+An object of class \code{data.frame} with 183879 rows and 273 columns.
 }
 \usage{
 data(retip_lib_1)
