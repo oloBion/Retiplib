@@ -2,7 +2,9 @@
 #'
 #' @docType data
 #'
-#' @usage data(retip_lib_v2_2)
+#' @description Second third of the Retip library. Needs to be merged to the other two thirds.
+#'
+#' @usage data(retip_lib_2)
 #'
 #' @keywords more than 16 different database with Retip Chemical descriptos calculated
 #'
@@ -10,6 +12,6 @@
 #'
 #'
 #' @examples
-#' data(retip_lib_v2_2)
+#' data(retip_lib_2)
 
-"retip_lib_v2_2"
+"retip_lib_2"
