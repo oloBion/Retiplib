@@ -2,29 +2,16 @@
 % Please edit documentation in R/data.R
 \name{get.retiplib}
 \alias{get.retiplib}
-\title{Build the retip library}
+\title{Build the Retip library}
 \usage{
 get.retiplib()
 }
 \value{
-the retip library by merging the three main files
+The Retip library
 }
 \description{
-Build the retip library
+Build the Retip library by merging three data files that contain molecules from different databases with descriptors calculated.
 }
 \examples{
-fet.retiplib()
+get.retiplib()
 }
-\references{
-xxx
-}
-\keyword{16}
-\keyword{Chemical}
-\keyword{Retip}
-\keyword{calculated}
-\keyword{database}
-\keyword{descriptos}
-\keyword{different}
-\keyword{more}
-\keyword{than}
-\keyword{with}

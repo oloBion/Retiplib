@@ -1,16 +1,13 @@
-#' Build the retip library
+#' Build the Retip library
 #' 
-#' @export get.retiplib
-#' 
-#' @return  the retip library by merging the three main files
-#' 
-#' @keywords more than 16 different database with Retip Chemical descriptos calculated
-#' 
+#' @description Build the Retip library by merging three data files that contain molecules from different databases with descriptors calculated.
 #'
-#' @references xxx
-#' 
+#' @export get.retiplib
+#'
+#' @return  The Retip library
+#'
 #' @examples
-#' fet.retiplib()
+#' get.retiplib()
 
 get.retiplib <- function() {
 
