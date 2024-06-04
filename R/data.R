@@ -2,7 +2,7 @@
 #' 
 #' @description Merge the three data objects to build the Retip library, which contains molecules from different databases with descriptors calculated.
 #'
-#' @docType data
+#' @export retip_lib
 #'
 #' @usage data(retip_lib_1)
 #'
@@ -14,4 +14,4 @@
 retip_lib <- rbind("retip_lib_1", "retip_lib_2")
 retip_lib <- rbind(retip_lib, "retip_lib_3")
 
-"retip_lib"
+retip_lib
