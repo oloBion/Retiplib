@@ -10,7 +10,7 @@ Please cite:
 
 ## Introduction
 
-**Retip** is an R package for predicting Retention Time (RT) for small molecules in a high pressure liquid chromatography (HPLC) Mass Spectrometry analysis. Go to the [Retip repository]((https://github.com/PaoloBnn/Retip/tree/master?tab=readme-ov-file)) to learn more about it. 
+**Retip** is an R package for predicting Retention Time (RT) for small molecules in a high pressure liquid chromatography (HPLC) Mass Spectrometry analysis. Go to the [Retip repository](https://github.com/PaoloBnn/Retip/tree/master?tab=readme-ov-file) to learn more about it. 
 
 **Retip library** is an R package that includes a large dataset of molecules from  from various databases, with calculated chemical descriptors using [CDK (Chemistry Development Kit)](https://cdk.github.io/).
 
@@ -22,7 +22,7 @@ Retiplib 0.2.2 requires R 0.4.4 and it is recommended to use RStudio IDE to run 
 
 1.  Download and install R from the [CRAN](https://cran.r-project.org/) (64 bit version recommended)
 2.  Download and install [RStudio](https://posit.co/download/rstudio-desktop/#download)
-3.  Run the following command line to install the Retip library.
+3.  Run the following command line to install **Retiplib**.
 
 ```{r}
 devtools::install_github('Paolobnn/Retiplib')
