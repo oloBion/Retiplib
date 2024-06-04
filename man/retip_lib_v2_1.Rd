@@ -8,7 +8,7 @@
 An object of class \code{data.frame} with 183879 rows and 267 columns.
 }
 \usage{
-data(retip_lib_v2_1)
+retip_lib_v2_1
 }
 \description{
 Retip library
