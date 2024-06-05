@@ -1,4 +1,4 @@
-![Retip Logo](/vignettes/Rerip_logo.png)
+![Retip Logo](/retip_logo.png)
 
 # Retiplib - Retention Time prediction for metabolomics library
 
@@ -16,7 +16,7 @@ Please cite:
 
 **Retip** is a tool for predicting Retention Time (RT) for small molecules in a high pressure liquid chromatography (HPLC) Mass Spectrometry analysis, available as both an [**R package**](https://github.com/olobion/Retip/tree/master) and a [**Python package**](https://github.com/oloBion/pyRetip/tree/master). 
 
-**Retip library** is an R package that includes a large dataset of molecules from  from various databases, with calculated chemical descriptors using [CDK (Chemistry Development Kit)](https://cdk.github.io/).
+**Retip library** is an R library that includes a large dataset of molecules from  from various databases, with calculated chemical descriptors using [CDK (Chemistry Development Kit)](https://cdk.github.io/).
 
 The databases included are: HMDB, KNApSAcK, ChEBI, DrugBank, SMPDB, YMDB, T3DB, FooDB, NANPDB, STOFF, BMDB, LipidMAPS, Urine, Saliva, Feces, ECMDB, CSF, Serum, PubChem.1, PlantCyc, UNPD, BLEXP, NPA and COCONUT.
 
