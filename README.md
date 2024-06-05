@@ -10,7 +10,7 @@ Please cite:
 
 ## Introduction
 
-**Retip** is an R package for predicting Retention Time (RT) for small molecules in a high pressure liquid chromatography (HPLC) Mass Spectrometry analysis. Go to the [**GitHub repository**](https://github.com/olobion/Retip/tree/master) to learn more about it. 
+**Retip** is a tool for predicting Retention Time (RT) for small molecules in a high pressure liquid chromatography (HPLC) Mass Spectrometry analysis, available as both an [**R package**](https://github.com/olobion/Retip/tree/master) and a [**Python package**](https://github.com/oloBion/pyRetip/tree/master). Go to the [**GitHub repository**](https://github.com/olobion/Retip/tree/master). 
 
 **Retip library** is an R package that includes a large dataset of molecules from  from various databases, with calculated chemical descriptors using [CDK (Chemistry Development Kit)](https://cdk.github.io/).
 
