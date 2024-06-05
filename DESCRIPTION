@@ -1,7 +1,7 @@
 Package: Retiplib
 Type: Package
 Title: Retip's library
-Version: 0.2.2
+Version: 2.0
 Authors@R: c(
     person("Paolo", "Bonini", , "pb@ngalab.com", c("aut", "cre")),
     person("Tobias", "Kind", , "tkind@ucdavis.edu",role = "aut"),
