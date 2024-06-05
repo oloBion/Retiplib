@@ -18,7 +18,7 @@ The databases included are: HMDB, KNApSAcK, ChEBI, DrugBank, SMPDB, YMDB, T3DB, 
 
 ## Installation
 
-Retiplib 2.0 requires R 0.4.4 and it is recommended to use RStudio IDE to run it.
+Retiplib 2.0 requires R 4.4.0 and it is recommended to use RStudio IDE to run it.
 
 1.  Download and install R from the [CRAN](https://cran.r-project.org/) (64 bit version recommended)
 2.  Download and install [RStudio](https://posit.co/download/rstudio-desktop/#download)
